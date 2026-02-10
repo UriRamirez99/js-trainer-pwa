@@ -1,0 +1,45 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 40px;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+button {
+  padding: 12px 20px;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.header {
+  display: grid;
+}
+
+.notif-btn {
+  background-color: #d8d4d4;
+
+}
+
+.acciones {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  margin: 20px 0;
+}
+
+.acciones button {
+  padding: 16px;
+  border-radius: 12px;
+  border: none;
+  font-size: 14px;
+  background-color: #0dff0044;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
